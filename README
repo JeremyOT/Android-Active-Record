@@ -1,0 +1,1 @@
+Android Active Record is a small, easy to use implementation of the Active Record pattern for Android. It supports delayed loading of specific properties and ensures that only one instance of each database object is loaded at any time.
